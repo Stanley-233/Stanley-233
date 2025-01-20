@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Currently studying in BJTU School of Engineering
-- 🌱 Learning:Unreal Engine and Computer Graphics
+- 🌱 Learning: Unreal Engine, Unity, TA Tools, front-end...
 - ⚡ Languages: C++, Kotlin/Java, Python, CG/HLSL,...
 - 📫 How to reach me: acc_stanley@foxmail.com
