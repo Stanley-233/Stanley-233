@@ -15,5 +15,3 @@ Reach me by: acc_stanley@foxmail.com
 - Sand-Box(Minecraft)
 - Indie game enjoyer and developer
 - My username also comes from a video game.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanley-233)](https://github.com/anuraghazra/github-readme-stats)
