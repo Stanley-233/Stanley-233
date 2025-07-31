@@ -6,10 +6,7 @@ Reach me by: acc_stanley@foxmail.com
 ### 🤓
 - 🎓 @BJTU SSE
 - 🌱 Learning: Graphics(Rendering & Visualization), Rust...
-- ⚡ Skill Stack(Language and Framework)
-+ Client/Web: Flutter, Qt/C++, Vue
-+ Backend: FastAPI, 
-+ Game Engine: Unity(C#, HLSL), Unreal Engine, Lua
+- ⚡ Skill Stack: Full Stack Dev(Flutter, Qt/C++, Vue, FastAPI), Gameplay & TA(Unity(C#, HLSL), Unreal Engine, Lua)
 
 ### 🎮
 - Strategy: a fan of Paradox Interactive(Stellaris, Victoria, Heart of Iron...)
