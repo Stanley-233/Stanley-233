@@ -10,7 +10,7 @@ Reach me by: acc_stanley@foxmail.com
 
 ### Games
 - Strategy: a fan of Paradox Interactive(Stellaris, Victoria, Heart of Iron...)
-- JRPG(Monster Hunter, NieR Automaga)
+- JRPG(Monster Hunter, NieR Automata)
 - Factory Simulation(Factorio, Dysen Sphere Program, Satisfactory...)
 - Sand-Box(Minecraft)
 - Indie game enjoyer and developer
