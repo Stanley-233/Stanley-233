@@ -3,10 +3,15 @@
 An average student interested in video games, computer graphics, and anime.
 Reach me by: acc_stanley@foxmail.com
 
-### Studying
+### Tech
 - Currently @BJTU School of Software Engineering
-- Learning: Graphics(Rendering & Visualization), Rust...
-- Skill Stack: Full Stack Dev(Flutter, Qt/C++, Vue, FastAPI), Gameplay & TA(Unreal Engine, Unity(C#, HLSL), Lua)
+- Interests: Graphics(Rendering, Simulation), HCI(XR Interactions, User Study)
+- Learning: WebGPU, Unreal Engine, Godot(OpenXR), Rust
+- Skill Stack
+  - Programming Language: C++, Kotlin/Java, Python, C#, TS/JS, Lua
+  - Game Development: Unreal Engine
+  - Backend: Springboot, FastAPI
+  - Frontend: React(Beginner Level)
 
 ### Games
 - Strategy: a fan of Paradox Interactive(Stellaris, Victoria, Heart of Iron...)
