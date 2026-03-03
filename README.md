@@ -6,10 +6,10 @@ Reach me by: acc_stanley@foxmail.com
 ### Tech
 - Currently @BJTU School of Software Engineering
 - Interests: Graphics(Rendering, Simulation), HCI(XR Interactions, User Study)
-- Learning: WebGPU, Unreal Engine, Godot(OpenXR), Rust
+- Learning: WebGPU, Unreal Engine, Godot, Rust
 - Skill Stack
   - Programming Language: C++, Kotlin/Java, Python, C#, TS/JS, Lua
-  - Game Development: Unreal Engine
+  - Game Development: Unreal Engine, Unity(Basic)
   - Backend: Springboot, FastAPI
   - Frontend: React(Beginner Level)
 
