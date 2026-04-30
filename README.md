@@ -19,3 +19,7 @@ Reach me by: acc_stanley@foxmail.com
 - Factory Simulation(Factorio, Dysen Sphere Program, Satisfactory...)
 - Sand-Box(Minecraft)
 - Indie game enjoyer and developer
+
+### 爱发电
+- 欢迎使用爱发电支持！
+- https://afdian.com/a/stanley
