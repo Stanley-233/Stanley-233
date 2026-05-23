@@ -20,10 +20,6 @@ Reach me by: acc_stanley@foxmail.com
 - Sand-Box(Minecraft)
 - Indie game enjoyer and developer
 
-### 爱发电
-- 欢迎使用爱发电支持！
-- https://afdian.com/a/stanley
-
 <p align="center">
   <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Stanley-233&show_icons=true" />
   <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stanley-233&layout=compact" />
