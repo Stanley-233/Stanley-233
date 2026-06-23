@@ -4,12 +4,11 @@ An average developer interested in video games, computer graphics, and anime.
 Reach me by: acc_stanley@foxmail.com
 
 ### Tech
-- Currently @BJTU School of Software Engineering
-- Interests: Graphics(Rendering, Simulation), Game Development, Toolchain, DevOps
-- Learning: WebGPU, Rust, Godot
+- Interests: Game Development, Graphics(Rendering, Simulation), Native development, DevOps
+- Learning: C#, Unity, WebGPU, Rust, Godot
 - Skill Stack
   - Programming Language: C++, Kotlin/Java, Python, TS/JS, Lua
-  - Game Development: Unreal Engine, Unity(Basic)
+  - Game Development: Unity, Unreal Engine
   - Web(through vibe coding): Springboot, React
 
 ### Games
